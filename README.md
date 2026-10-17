@@ -3,7 +3,7 @@
 
 ### IT Infrastructure Specialist Student | Linux | Windows Server | Networking
 
-I'm studying IT Infrastructure at Nackademin in Sweden and building hands-on labs to develop practical skills in system administration, networking, virtualization, and cybersecurity.
+I'm studying IT Infrastructure at Nackademin in Sweden and building hands-on labs to develop practical skills in system administration, networking, virtualization, and cybersecurity. 
 
 ## Technical Skills
 
